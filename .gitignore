@@ -1,0 +1,6 @@
+﻿config.php
+.idea/
+tmp/
+log/
+.htaccess
+dev/gulp/node_modules
